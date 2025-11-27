@@ -1,8 +1,8 @@
 # TimeSeries
 
-### [First Course](/Basic-Time-Series) :
+### [First Course](/Basic-Time-series) :
 
-- [Intro complète](/Basic-Time-Series/TP1.ipynb) : Introduction to the theoretical foundations of random processes and time series (Autocorrelation, ARMA models etc...)
+- [Intro complète](/Basic-Time-series/TP1.ipynb) : Introduction to the theoretical foundations of random processes and time series (Autocorrelation, ARMA models etc...)
 
 ### [Second Course](/TP) :
 
