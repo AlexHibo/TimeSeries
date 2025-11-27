@@ -8,7 +8,7 @@ Introduction to the theoretical foundations of random processes and time series 
 
 3 different work :
 
-- [High-Resoltion-Method](TP/LabHRPython/HR_TP.ipynb) : work on ESPRIT and MUSIC methode for reconstruction of a bell sound
+- [High-Resoltion-Method](TP/Lab HR Python/HR_TP.ipynb) : work on ESPRIT and MUSIC methode for reconstruction of a bell sound
 
 - [Kalman](TP/Kalman_Practice-Session.ipynb) : introduction of Kalman filter to have a smooth continute signal based on sample (but also forecasting)
 
