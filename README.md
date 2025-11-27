@@ -1,3 +1,9 @@
-# TimeSeries 1
-Introduction to the theoretical foundations of random processes and time series
-TP 1,2 et 3 completed with my dear binom Noa Andre.
+# TimeSeries
+
+### In Basic-Time-Series :
+
+Introduction to the theoretical foundations of random processes and time series (Autocorrelation, ARMA models etc...)
+
+###
+  
+
